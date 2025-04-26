@@ -12,11 +12,11 @@
 
 ## 프로그램 화면
 
-![GUI Example](./assets/1.png)
+![GUI Example](./assets/1.PNG)
 
-![GUI Example](./assets/2.png)
+![GUI Example](./assets/2.PNG)
 
-![GUI Example](./assets/3.png)
+![GUI Example](./assets/3.PNG)
 
 ## 설치 방법
 
